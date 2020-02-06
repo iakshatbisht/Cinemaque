@@ -16,9 +16,11 @@
 - SnackBar<br>
 
 # UI and Functionalities<br>
+<p align = center>
 <img src = 'Readme/splashscreen.gif' height = 400 width = 200 align = center>
-<br>
+</p><br>
 <br>
 <br>
 <br>
 <h3><text align = left> 1. SplashScreen</text></h3>
+<div style="text-align:right">right</div>
