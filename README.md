@@ -1,2 +1,10 @@
 # Cinemaque
-A movie review flutter application.. it works with live data. You can watch description and trailer of a movie and other details including cast details as well  
+<br>
+<br>
+## Embedded Features
+1. Authentication with Firebase<br>
+2. Working with REST APIs(The Movie DB)<br>
+3. Responsiveness<br>
+4. Web View<br>
+5. Youtube<br>
+
