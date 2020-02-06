@@ -9,3 +9,8 @@
  4. Web View<br>
  5. Youtube<br>
 
+# Widgets Used Never Before<br>
+- Tab Bar<br>
+- Grid View<br>
+- Drawer<br>
+- SnackBar<br>
