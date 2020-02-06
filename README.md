@@ -17,19 +17,23 @@
 
 # UI and Functionalities<br>
 <p>
- <img src = 'Readme/splashscreen.gif' height = 400 width = 200 hspace=25 >
- <img src = 'Readme/first.gif' height = 400 width = 200 hspace=25 >
- <img src = 'Readme/second.gif' height = 400 width = 200 hspace=25 >
- </p><br/>
+ <img src = 'Readme/splashscreen.gif' height = 400 width = 200 hspace=30 >
+ <img src = 'Readme/first.gif' height = 400 width = 200 hspace=30 >
+ <img src = 'Readme/second.gif' height = 400 width = 200 hspace=30 >
+ </p>
+ <p>
+ <h3> 1. SplashScreen </h3>
+ <h3> 2. First </h3>
+ <h3> 3. Second </h3>
+ </p>
  <img src = 'Readme/third.gif' height = 400 width = 200 hspace=20 >
  <img src = 'Readme/fourth.gif' height = 400 width = 200 hspace=20 >
  <img src = 'Readme/fifth.gif' height = 400 width = 200 hspace=20 >
  
-  <h3> 1. SplashScreen </h3>
+  
  <br/><br/>
-  <div style="text-align:right"><h3> 2. First </h3></div>
+  <div style="text-align:right"></div>
 <br/><br/>
-  <h3> 3. Second </h3>
 <br/><br/>
   <h3> 4. Third </h3>
 <br/><br/>
