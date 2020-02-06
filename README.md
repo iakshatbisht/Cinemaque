@@ -1,6 +1,6 @@
 # Cinemaque
-<br>
-<br>
+
+
 # Embedded Features<br>
 1. Authentication with Firebase<br>
 2. Working with REST APIs(The Movie DB)<br>
