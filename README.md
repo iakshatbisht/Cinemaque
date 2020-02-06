@@ -17,22 +17,23 @@
 
 # UI and Functionalities<br>
 
- <img src = 'Readme/splashscreen.gif' align = right height = 400 width = 200 hspace=250 ><br/><br/><br/>
- <h3> 1. SplashScreen </h3>
+ <img src = 'Readme/splashscreen.gif' height = 400 width = 200 hspace=50 >
+ <img src = 'Readme/first.gif' height = 400 width = 200 hspace=50 >
+ <img src = 'Readme/second.gif' height = 400 width = 200 hspace=50 >
+ <img src = 'Readme/third.gif' height = 400 width = 200 hspace=50 >
+ <img src = 'Readme/fourth.gif' height = 400 width = 200 hspace=50 >
+ <img src = 'Readme/fifth.gif' height = 400 width = 200 hspace=50 >
+ <br/>
+  <h3> 1. SplashScreen </h3>
  <br/><br/>
-  <img src = 'Readme/first.gif' height = 400 width = 200 hspace=100 ><br/>
   <div style="text-align:right"><h3> 2. First </h3></div>
 <br/><br/>
-  <img src = 'Readme/second.gif' align = right height = 400 width = 200 hspace=250 ><br/><br/><br/>
- <h3> 3. Second </h3>
+  <h3> 3. Second </h3>
 <br/><br/>
-  <img src = 'Readme/third.gif' height = 400 width = 200 hspace=200 ><br/><br/><br/>
   <h3> 4. Third </h3>
 <br/><br/>
-  <img src = 'Readme/fourth.gif' align = right height = 400 width = 200 hspace=250 ><br/><br/><br/>
  <h3> 5. Fourth </h3>
 <br/><br/>
-  <img src = 'Readme/fifth.gif' height = 400 width = 200 hspace=200 ><br/><br/><br/>
  <h3> 6. Fifth </h3>
  
 
