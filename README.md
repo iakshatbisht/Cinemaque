@@ -17,7 +17,7 @@
 
 # UI and Functionalities<br>
 
- <img src = 'Readme/splashscreen.gif' height = 400 width = 200 hspace=500 >
-<h3> 1. SplashScreen </h3>
+ <img src = 'Readme/splashscreen.gif' align = right height = 400 width = 200 hspace=500 ><br/><br/><br/>
+ <h3> 1. SplashScreen </h3>
  
 
