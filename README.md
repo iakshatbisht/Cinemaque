@@ -1,5 +1,6 @@
 # Cinemaque
-
+<p align='left'>Cinemaque is a movie review app. It requires authentication to proceed.<br> The application helps the user to view the description, ratings, cast and other details of a particular movie or Tv series. <br>The application stays always updated. Not only this but the user can also search for a particular movie or tv series among the humongoust list of them.<br> The application provides details of famous people or actors and their popular works.
+</p>  
 
 # Embedded Features<br>
 1. Authentication with Firebase<br>
