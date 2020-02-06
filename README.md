@@ -21,7 +21,7 @@
  <img src = 'Readme/first.gif' height = 400 width = 200 hspace=30 >
  <img src = 'Readme/second.gif' height = 400 width = 200 hspace=30 >
  </p>
- <p>
+ <p hspace = 30>
  <h3> 1. SplashScreen </h3>
  <h3> 2. First </h3>
  <h3> 3. Second </h3>
