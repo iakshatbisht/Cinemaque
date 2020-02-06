@@ -16,9 +16,9 @@
 - SnackBar<br>
 
 # UI and Functionalities<br>
+<img src = 'Readme/splashscreen.gif' height = 500 width = 300 align = right>
 <br>
 <br>
 <br>
 <br>
 <h3> 1. SplashScreen</h3>
-<img src = 'Readme/splashscreen.gif' height = 500 width = 300 align = right>
