@@ -16,3 +16,5 @@
 - SnackBar<br>
 
 # UI and Functionalities<br>
+# 1. SplashScreen
+<img src = 'Readme/splashscreen.mp4'>
