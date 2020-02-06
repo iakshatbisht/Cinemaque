@@ -21,7 +21,7 @@
  <h3> 1. SplashScreen </h3>
  <br/><br/>
   <img src = 'Readme/first.gif' height = 400 width = 200 hspace=200 ><br/><br/><br/>
-  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. First </h3>
+  <p style="text-align: right;"><h3> 2. First </h3></p>
 <br/><br/>
   <img src = 'Readme/second.gif' align = right height = 400 width = 200 hspace=250 ><br/><br/><br/>
  <h3> 3. Second </h3>
