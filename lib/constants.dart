@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-const String apiKey = 'c439356270964d6290574548af4f24d7';
-const String firebaseApiKey = 'AIzaSyDm3mTpWGTX5dg6jJ6xyszf-H_bAb2Pnhk';
+const String apiKey = <upload your the movie DB API key>;
+const String firebaseApiKey = <enter your firebase key here>;
 
 final Divider drawerDivs = Divider(color: Colors.black, indent: 6);
 final Widget gap = Padding(
