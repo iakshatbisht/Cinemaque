@@ -17,10 +17,7 @@
 
 # UI and Functionalities<br>
 
-<p style="text-align: center">def 456</p>
- <img src = 'Readme/splashscreen.gif' align=right height = 400 width = 200 hspace=5 /><br/><br/>
- <p style="text-align: center">
+ <img src = 'Readme/splashscreen.gif' align=right height = 400 width = 200 hspace=50 /><br/><br/>
 <h3> 1. SplashScreen </h3>
-</p>   
  
 
