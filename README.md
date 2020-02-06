@@ -21,18 +21,18 @@
  <h3> 1. SplashScreen </h3>
  <br/><br/>
   <img src = 'Readme/first.gif' height = 400 width = 200 hspace=200 ><br/><br/><br/>
- ### 2. First 
+  <h3> 2. First 
 <br/><br/>
   <img src = 'Readme/second.gif' align = right height = 400 width = 200 hspace=250 ><br/><br/><br/>
- ### 3. Second
+ <h3> 3. Second
 <br/><br/>
   <img src = 'Readme/third.gif' height = 400 width = 200 hspace=200 ><br/><br/><br/>
- ### 4. Third 
+ <h3> 4. Third 
 <br/><br/>
   <img src = 'Readme/fourth.gif' align = right height = 400 width = 200 hspace=250 ><br/><br/><br/>
- ### 5. Fourth 
+ <h3> 5. Fourth 
 <br/><br/>
   <img src = 'Readme/fifth.gif' height = 400 width = 200 hspace=200 ><br/><br/><br/>
- ### 6. Fifth 
+ <h3> 6. Fifth 
  
-
+->akshat<-
