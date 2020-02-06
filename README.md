@@ -21,14 +21,14 @@
  <img src = 'Readme/first.gif' height = 400 width = 200 hspace=30 >
  <img src = 'Readme/second.gif' height = 400 width = 200 hspace=30 >
  </p>
- <h3>&emsp;&emsp;1. SplashScreen  &emsp;&emsp;&emsp;&emsp;&emsp;2. First Interaction &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3. Detail Page </h3>
+ <h3>&emsp;&emsp;1. SplashScreen  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2. First Interaction &emsp;&emsp;&emsp;&emsp;&emsp;3. Detail Page </h3>
  <br/><br/><br/>
 <p>
  <img src = 'Readme/third.gif' height = 400 width = 200 hspace=30 >
  <img src = 'Readme/fourth.gif' height = 400 width = 200 hspace=30 >
  <img src = 'Readme/fifth.gif' height = 400 width = 200 hspace=30 >
  </p>
- <h3>&emsp;&emsp;&emsp;4. Favourites  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5. Youtube &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6. Search </h3>
+ <h3>&emsp;&emsp;&emsp;4. Favourites  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5. Youtube &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6. Search </h3>
  
  
 
