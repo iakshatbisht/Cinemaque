@@ -18,7 +18,7 @@
 # UI and Functionalities<br>
 
 <p align = center>
-<img src = 'Readme/splashscreen.gif' height = 400 width = 200 align = "center" hspace=20 />
+<img src = 'Readme/splashscreen.gif' height = 400 width = 200 align = "center" hspace=5 />
  <h3> 1. SplashScreen </h3>
 </p>
 
