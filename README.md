@@ -14,3 +14,5 @@
 - Grid View<br>
 - Drawer<br>
 - SnackBar<br>
+
+# UI and Functionalities<br>
