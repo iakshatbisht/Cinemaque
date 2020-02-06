@@ -17,12 +17,12 @@
 
 # UI and Functionalities<br>
 <p>
- <img src = 'Readme/splashscreen.gif' height = 400 width = 200 hspace=50 >
- <img src = 'Readme/first.gif' height = 400 width = 200 hspace=50 >
- <img src = 'Readme/second.gif' height = 400 width = 200 hspace=50 >
- <img src = 'Readme/third.gif' height = 400 width = 200 hspace=50 >
- <img src = 'Readme/fourth.gif' height = 400 width = 200 hspace=50 >
- <img src = 'Readme/fifth.gif' height = 400 width = 200 hspace=50 >
+ <img src = 'Readme/splashscreen.gif' height = 400 width = 200 hspace=20 >
+ <img src = 'Readme/first.gif' height = 400 width = 200 hspace=20 >
+ <img src = 'Readme/second.gif' height = 400 width = 200 hspace=20 >
+ <img src = 'Readme/third.gif' height = 400 width = 200 hspace=20 >
+ <img src = 'Readme/fourth.gif' height = 400 width = 200 hspace=20 >
+ <img src = 'Readme/fifth.gif' height = 400 width = 200 hspace=20 >
  </p><br/>
   <h3> 1. SplashScreen </h3>
  <br/><br/>
