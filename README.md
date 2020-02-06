@@ -21,20 +21,14 @@
  <img src = 'Readme/first.gif' height = 400 width = 200 hspace=30 >
  <img src = 'Readme/second.gif' height = 400 width = 200 hspace=30 >
  </p>
- <h3>&emsp;&emsp;1. SplashScreen  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2. First &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3. Second </h3>
- <img src = 'Readme/third.gif' height = 400 width = 200 hspace=20 >
- <img src = 'Readme/fourth.gif' height = 400 width = 200 hspace=20 >
- <img src = 'Readme/fifth.gif' height = 400 width = 200 hspace=20 >
+ <h3>&emsp;&emsp;1. SplashScreen  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2. First &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3. Second </h3>
+ <br/><br/><br/>
+<p>
+ <img src = 'Readme/third.gif' height = 400 width = 200 hspace=30 >
+ <img src = 'Readme/fourth.gif' height = 400 width = 200 hspace=30 >
+ <img src = 'Readme/fifth.gif' height = 400 width = 200 hspace=30 >
+ </p>
+ <h3>&emsp;&emsp;4. Third  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5. Fourth &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6. Fifth </h3>
  
-  
- <br/><br/>
-  <div style="text-align:right"></div>
-<br/><br/>
-<br/><br/>
-  <h3> 4. Third </h3>
-<br/><br/>
- <h3> 5. Fourth </h3>
-<br/><br/>
- <h3> 6. Fifth </h3>
  
 
