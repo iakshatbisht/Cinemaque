@@ -21,4 +21,4 @@
 <br>
 <br>
 <br>
-<h3> 1. SplashScreen</h3>
+<h3><text align = left> 1. SplashScreen</text></h3>
